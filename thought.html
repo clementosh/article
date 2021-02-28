@@ -80,9 +80,17 @@
             <!-- Pour créer des liens internes, on va utiliser un chemin qu’on appelle relatif. 
                 Ce qui veut dire en fait qu’on va situer la page vers laquelle on veut faire un lien relativement (càd par rapport) à la page où l’on veut faire un lien. 
                 Alors, il y a 3 cas à distinguer (pour le lien interne): -->
+
             <!-- 1° Le premier cas: le cas où les deux pages web, donc la page où l’on veut faire un lien et celle vers laquelle on fait un lien, sont dans le même dossier. 
                 Alors, dans ce cas on précise simplement le nom de la page dans l’attribut href en valeur (comme ceci href= “page2.html”); 
                 donc, vous pouvez mttre le nom de la page vers laquelle vous vouez faire un lien.-->
+
+            <!-- 2° Le deuxième cas:  c’est le cas dans lequel la page vers laquelle on veut faire un lien se trouve en sous-dossier.
+                 Alors, il faudra donc en tenir compte dans la valeur de l’attribut href et l’indiquer (comme ceci: href=”sous-dossier/page2.html”)-->
+            <!-- 3° Le troisième et dernier cas: le as où la page vers laquelle on veut faire un lien se trouve dans un dossier parent.
+                 Alors, dans ce cas on va ajouter deux points(..) et un slash (/), et on pourra ajouter au tant de fois deux points et le slash qu’il y aura les niveaux de parenté entre la page qu’on souhaite atteindre et la page sur laquelle on est.-->
+            <!-- Alors, c’est tout. Illustrons cela avec un exemple. Pour cela on va créer 3 dossiers. -->
+            
             Pour créer des liens internes, on va  utiliser un chemin qu’on appelle relatif. Ce qui veut dire au fait qu’on va situer la page vers laquelle on veut faire le lien -->
             <p>Cela renvoie a la<a href="samepage/inone.html">la page suivante</a></p>
     </body>
