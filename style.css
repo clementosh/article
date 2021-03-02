@@ -1,3 +1,9 @@
+/*commentaires en CSS*/
+/* Pour faire le commentaire en CSS on met /* (votre texte de commentaire) puis*/
+
 h1 {
     color:red;
 }
+/*Alors retournos maintenant à nos sélecteurs. Jusqu'à maintenant nous n'avons manipulé que des sélecteurs que l'on appelle sélecteurs simples; 
+car ils correspondent en fait à des élments HTML, comme par exemple p, h1, donc des éléments HTML qui n'ont pas d'attribut.
+donc ces types des sélecteurs doivent être préférés tant que possible pour des raisons d'optimisation et de performance du code*/
