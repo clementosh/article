@@ -6,4 +6,15 @@ h1 {
 }
 /*Alors retournos maintenant à nos sélecteurs. Jusqu'à maintenant nous n'avons manipulé que des sélecteurs que l'on appelle sélecteurs simples; 
 car ils correspondent en fait à des élments HTML, comme par exemple p, h1, donc des éléments HTML qui n'ont pas d'attribut.
-donc ces types des sélecteurs doivent être préférés tant que possible pour des raisons d'optimisation et de performance du code*/
+donc ces types des sélecteurs doivent être préférés tant que possible pour des raisons d'optimisation et de performance du code.
+En effet, ces sélecteurs qui ont moins de codes demandent moins en moins l'énergie.
+et ça fait donc que la page s'affichera plus rapidement et avec des sélecteurs plus complexes*/
+/* Le problème maintenant c'est qu'on.......... 
+En effet, comment on fait pour appliquer un style différent à des éléments de même type?, ....
+par exemple appliquer un style différent à 2 paragraphes.
+Ce n'est tout simplement pas possible. 
+C'est donc pour cela qu'on a créé deux attributs que sont: les attributs "class" et "id" 
+
+    -Alors "Class" et "id" sont donc deux attributs HTML qui ont été créés pour pouvoir appliquer différents styles à des éléments de même type.
+    - "class" également permet de faire l'inverse et  d'appliquer le même style à différents éléments choisis.
+    Alors, voyons tout de suite comment cela fonctionne*/
