@@ -41,8 +41,12 @@ par exemple moi ici je vais écrire <p id="deuxiemep" (alors, essayez de ne pas 
 Ensuite, on retourne encore une fois sur notre fichier CSS, et cette fois ci on va commencer non pas par un point, mais par un dièse (#).
 Donc, à chaque fois qu'au aura "id", il faudra commencer par un #.*/
 
-#deuxiemep{
+#deuxiemep {
     color:tomato;
 }
+/* Donc vous vous rappellez que, avec les ancres c'est le même # que nous avons utilisé encore avec "id"; donc c'est le même principe.
+Je vous ai dit que "class" permet également d'appliquer le même style à différents éléments.
+alors, comment? R/ Tout simplement on attribue la même valeur à deux attributs de "class" différents, et donc les éléments ciblés du même style.
+Alors, voyons maintenant comment cela s'applique.
 
 
