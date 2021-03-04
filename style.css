@@ -58,7 +58,14 @@ Rappellez-vous, en effet, des ancres, imaginez qu'on ait deux "id" identiques. A
 ce qui a fait que "id" soit préféré pour les éléments uniques dans la page web, comme un logo par exemple.
 donc l'"id" avec une valeur precise doit être utilisé une seule fois par page. */
 
-/* Cependant, alors on est encore un tout petit peu limités au niveau de nos sélecteurs;
+        /*IV. AUTRES ELEMENTS DE HTML*/
+
+/* Cependant, donc on est toujours un tout petit peu limités au niveau de nos sélecteurs: cas appliqués aux styles, cas du contenu concernant les balises pour le moment;
+En effet, on ne peut pas pour le moment appliquer du style à un mot d'un titre, par exemple h1.
+Donc, C'est pour remedier à ce problème que l'on a écrit deux nouveaux élément en HTML qui n'on aucune valeur sémantique, mais qui servent seulement de conteneurs.
+Ces éléments sont donc: les élément "div" et "span".
+Alors, attention, comme je viens de le dire, "div" et "span" n'ont pas de valeur sémantique. Ce qui va, au fait, à l'encontre même  du rôle du HTML. 
+Donc, ce sont des éléments à n'utiliser que si vous n'avez pas d'autre choix.
 
 
 
