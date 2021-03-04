@@ -27,6 +27,7 @@ C'est donc pour cela qu'on a créé deux attributs que sont: les attributs "clas
     alors, à chaque fois qu'on utilisera l'attribut "class", il faudra utiliser un point au début de la déclaration dans le fichier CSS.
     Après le point, on écrit la valeur de notre attribut,ici premierp, et ensuite on écrit notre déclaration; 
     par exemple si je veux changer la couleur, j'écris tout simplement "color"*/
+
 .premierp{
     color:yellow;
 }
@@ -38,5 +39,10 @@ C'est donc pour cela qu'on a créé deux attributs que sont: les attributs "clas
 Donc on va commencer par faire la même chose, donc se placer dans la balise d'un élément (HTML), et on va écrire l'attribut "id" avec la valeur que l'on souhaite, 
 par exemple moi ici je vais écrire <p id="deuxiemep" (alors, essayez de ne pas mettre un caractère spécial, comme l'accent. donc pas d'accent ni espace).
 Ensuite, on retourne encore une fois sur notre fichier CSS, et cette fois ci on va commencer non pas par un point, mais par un dièse (#).
-Donc, à chaque fois qu'au aura "id", il faudra commencer par un #.
- 
+Donc, à chaque fois qu'au aura "id", il faudra commencer par un #.*/
+
+#deuxiemep{
+    color:tomato;
+}
+
+
