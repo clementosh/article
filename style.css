@@ -50,8 +50,15 @@ alors, comment? R/ Tout simplement on attribue la même valeur à deux attributs
 Alors, voyons maintenant comment cela s'applique.
 Pour l'exemple, voir fichier html <li Son origine>.
 
-Alors, vous devez peut-être vous demander: pourquoi avoir "id" et "class" et n'avoir que "class" dans ce cas? 
+Alors, vous devez peut-être vous demander: pourquoi avoir "id" et "class" et pas que "class" dans ce cas? 
 Alors, au fait il y a une différence entre "class" et "id". 
-Une seule différence: c'est qu'un "id" au fait, avec une valeur précisée, ne doit être utilisé qu'une seule fois par page.
+Une seule différence: c'est qu'un "id" en fait, avec une valeur précise, ne doit être utilisé qu'une seule fois par page.
+Rappellez-vous, en effet, des ancres, imaginez qu'on ait deux "id" identiques. Alors dans ce cas je me demande où est ce que l'ancre amenerait tel code.
+ça poserait donc de problème de code,evidemment, puisqu'au fait l'ancre ramenerait à un code qu'on connait pas.
+ce qui a fait que "id" soit préféré pour les éléments uniques dans la page web, comme un logo par exemple.
+donc l'"id" avec une valeur precise doit être utilisé une seule fois par page. */
+
+/* Cependant, alors on est encore un tout petit peu limités au niveau de nos sélecteurs;
+
 
 
