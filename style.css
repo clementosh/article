@@ -100,4 +100,10 @@ En HTML,
                     - Ne commencent pas sur une nouvelle ligne,
                     - Occupent seulement la largeur nécessaire, 
                     - Peuvent contenir d'autres éléments de type inline mais pas d'éléments de type block. */
+                
+        /* <!-- Alors, voyons quelques exemples un peu plus clairs de ces éléments
+                
+                - Eléments block: - p; h1, h2, h3, h4...; header, article, footer; ol, ul, dl; table.
+                - Eléménts inline: em; strong, mark, a; img. */
+        
 
