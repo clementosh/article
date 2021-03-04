@@ -71,7 +71,13 @@ Donc utilisez les éléments "div" et "span" que si vous n'avez pas d'autre choi
 Alors comment on utilse les éléments "div" et "span"? 
     - On place tout simplement les balises autour du contenu auquel on veut donner un style, 
     - puis on applique les attributs "class" ou "id" avec une valeur, comme on vient de le voir.
-    
+Par exemple:*/
+
+.montitre {
+        color:black;
+}
+
+
 
 
 
