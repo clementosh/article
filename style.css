@@ -77,7 +77,18 @@ Par exemple:*/
         color:black;
 }
 
+        /*ELEMENTS DE TYPES BLOCK & INLINE*/
+/*Alors, comme vous en doutez, il y a également une différence entre les éléments "span" et "div".
+En effet, donc, l'un est de type "block" et l'autre est de type "inline". on va devoir voir tout de suite ce que cela signifie.
+En HTML, 
+ Tout élément, en HTML, soit soit un élément de type block, soit un élément de type inline.
+ En l'occurencence ici: 
+                     Div= (est un) élément de type block
+                     Span = élément de type inline.*/ 
 
-
+        /*Différences entre les éléments du type block et les éléments du type inline*/
+        
+/*Alors, quelles sont les différences entre les éléments du type block et les éléments du type inline?
+    - Les éléments de type 
 
 
