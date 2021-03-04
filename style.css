@@ -48,5 +48,10 @@ Donc, à chaque fois qu'au aura "id", il faudra commencer par un #.*/
 Je vous ai dit que "class" permet également d'appliquer le même style à différents éléments.
 alors, comment? R/ Tout simplement on attribue la même valeur à deux attributs de "class" différents, et donc les éléments ciblés du même style.
 Alors, voyons maintenant comment cela s'applique.
+Pour l'exemple, voir fichier html <li Son origine>.
+
+Alors, vous devez peut-être vous demander: pourquoi avoir "id" et "class" et n'avoir que "class" dans ce cas? 
+Alors, au fait il y a une différence entre "class" et "id". 
+Une seule différence: c'est qu'un "id" au fait, avec une valeur précisée, ne doit être utilisé qu'une seule fois par page.
 
 
