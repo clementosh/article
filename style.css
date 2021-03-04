@@ -87,8 +87,17 @@ En HTML,
                      Span = élément de type inline.*/ 
 
         /*Différences entre les éléments du type block et les éléments du type inline*/
-        
-/*Alors, quelles sont les différences entre les éléments du type block et les éléments du type inline?
-    - Les éléments de type 
 
+ /*Alors, quelles sont les différences entre les éléments du type block et les éléments du type inline?*/
+
+       /* 2. DIFFERENCES ENTRE LES ELEMENTS DU TYPE BLOCK ET LES ELEMENTS DU TYPE INLINE
+                <!-- Les éléments de type block...
+                    - Commencent sur une nouvelle ligne,
+                    - Occupent toute la largeur disponible, 
+                    - Peuvent être imbriqués les uns dans les autres et peuvent contenir dees éléments de type inline.
+                -->
+                <!-- Les éléments de type inline...
+                    - Ne commencent pas sur une nouvelle ligne,
+                    - Occupent seulement la largeur nécessaire, 
+                    - Peuvent contenir d'autres éléments de type inline mais pas d'éléments de type block. */
 
