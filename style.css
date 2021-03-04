@@ -34,3 +34,5 @@ C'est donc pour cela qu'on a créé deux attributs que sont: les attributs "clas
     color:brown;
 }
 /*Alors, on voyons maintenant comment ça fonctionne avec l'attribut "id".
+Donc on va commencer par faire la même chose, donc se placer dans la balise d'un élément (HTML), et on va écrire l'attribut "id" avec la valeur que l'on souhaite, 
+par exemple moi ici je vais écrire <p id="deuxiemep" (alors, essayez de ne pas mettre un caractère spécial, comme l'accent. donc pas d'accent ni espace).
