@@ -109,4 +109,8 @@ En HTML,
                 /* 3. SELECTEURS AVANCES
                    voir le contenu dans HTML*/
                    
+body {
+    color:gray;
+}
+
 
