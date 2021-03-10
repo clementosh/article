@@ -116,11 +116,10 @@ body {
         /* Alors retenez bien cette notion d'héritage qui est vraiment crucial dans la compréhension du langage CSS.
         Voilà pour notre introduction qui se termine ici, rendez-vous au prochain cours, la Partie II de notre cours complet sur les HTML et CSS*/ 
 
-        <h1> PARTIE II. FORMATER DU TEXTE ET POSITIONNER LES ELEMETS</h1>
+        /*<h1> PARTIE II. FORMATER DU TEXTE ET POSITIONNER LES ELEMETS</h1>*/
 .para1 {
-    front=size:50px;
+    font-size:30px;
 }
-.para2{
-    front=zise:2.3em;
+.para2 {
+    font-size: 2.3em; 
 }
-
