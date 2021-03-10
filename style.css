@@ -119,7 +119,9 @@ body {
         /*<h1> PARTIE II. FORMATER DU TEXTE ET POSITIONNER LES ELEMETS</h1>*/
 .para1 {
     font-size:30px;
+    font-style: inherit;
 }
 .para2 {
     font-size: 2.3em; 
+    font-style:italic;
 }
