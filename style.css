@@ -6,7 +6,7 @@ h1 {
 }
 body
 {
-    background-color:greenyellow;
+    
 }
 /*Alors retournos maintenant à nos sélecteurs. Jusqu'à maintenant nous n'avons manipulé que des sélecteurs que l'on appelle sélecteurs simples; 
 car ils correspondent en fait à des élments HTML, comme par exemple p, h1, donc des éléments HTML qui n'ont pas d'attribut.
@@ -134,5 +134,8 @@ body {
 }
 
 /* Le line-text: correspond tout simplement à l'ércatement, càd à la distance entre deux lignes de texte.
-Passons à la propriété suivante: font-family, qui va vous permettre de choisir la police d'écriture de votre texte. */
+Passons à la propriété suivante: font-family, qui va vous permettre de choisir la police d'écriture de votre texte.*/
+h2 {
+    color: #0078bc; 
+}
 
