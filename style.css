@@ -120,6 +120,7 @@ body {
 .para1 {
     font-size:30px;
     font-style: inherit;
+    font-weight:bold;
 }
 .para2 {
     font-size: 2.3em; 
