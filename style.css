@@ -130,5 +130,6 @@ body {
     font-weight:bold;
 }
 
-/* Le line-text: correspond tout simplement à l'ércatement, càd à la distance entre deux lignes de texte.*/
+/* Le line-text: correspond tout simplement à l'ércatement, càd à la distance entre deux lignes de texte.
+Passons à la propriété suivante: font-family, qui va vous permettre de choisir la police d'écriture de votre texte. */
 
