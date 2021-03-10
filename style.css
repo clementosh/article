@@ -138,7 +138,10 @@ Passons à la propriété suivante: font-family, qui va vous permettre de choisi
 h2 {
     color: #0078bc; 
 }
-.paracss {
+.para1css {
     color:#000000;
+}
+.para2css {
+    color:#ffffff;
 }
 
